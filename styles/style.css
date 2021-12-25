@@ -34,7 +34,7 @@
   width: 730px;
   display: flex;
   flex-direction: column;
-  justify-content: center;  
+  justify-content: center;
   margin-left: 64px;
   line-height: 96px;
   font-size: 102px;
@@ -179,7 +179,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-top: 20px;  
+  margin-top: 20px;
   margin-bottom: 0; 
 }
 
