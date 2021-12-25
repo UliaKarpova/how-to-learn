@@ -254,12 +254,12 @@
   width: 60%;
   line-height: 34px;
   font-size: 24px;
-  color: white;  
+  color: white;
   z-index: 2;
 }
 
 .kaufman__table_theme_dark {
-  background-color: #1f1f1f;  
+  background-color: #1f1f1f;
   z-index: 2;
   margin-bottom: 90px;
   list-style: none;
