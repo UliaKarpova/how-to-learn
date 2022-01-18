@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/links_transparency/links_transparency.css);
+@import url(../blocks/links-transparency/links-transparency.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
